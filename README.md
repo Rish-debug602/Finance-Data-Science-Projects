@@ -1,5 +1,4 @@
-# Finance-Data-Science-Projects
-A collection of Python-based projects in financial analytics, quantitative finance, portfolio risk, credit risk, time series analysis, and machine learning.
+
 # Finance & Data Science Portfolio
 
 Welcome to my portfolio of Python-based projects focused on **financial analytics, quantitative finance, risk management, and data science**.
